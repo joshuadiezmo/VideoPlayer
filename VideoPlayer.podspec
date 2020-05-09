@@ -3,10 +3,10 @@ Pod::Spec.new do |s|
   s.version = '0.2.9'
   s.license = 'MIT'
   s.summary = 'Video player for swiftui'
-  s.homepage = 'https://github.com/wxxsw/VideoPlayer'
+  s.homepage = 'https://github.com/joshuadiezmo/VideoPlayer'
   s.authors = { 'Gesen wxxsw' => 'i@gesen.meg' }
-  s.source = { :git => 'https://github.com/wxxsw/VideoPlayer', :tag => s.version }
-  s.documentation_url = 'https://github.com/wxxsw/VideoPlayer'
+  s.source = { :git => 'https://github.com/joshuadiezmo/VideoPlayer', :tag => s.version }
+  s.documentation_url = 'https://github.com/joshuadiezmo/VideoPlayer'
 
   s.ios.deployment_target = '13.0'
   s.osx.deployment_target = '13.0'
